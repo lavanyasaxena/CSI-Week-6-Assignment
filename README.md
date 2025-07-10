@@ -1,6 +1,7 @@
 # CSI-Week-6-Assignment
 # SUMMARY
 
+### Breast Cancer Dataset is used in this.
 ### 1. We have used three models: **Random Forest Classifier, Logistic Regression, SVC** on *breast cancer* dataset.
 ### 2. **Logistic Regression**
 * **Accuracy:** 96.49%
