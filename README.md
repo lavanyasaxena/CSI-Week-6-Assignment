@@ -1,4 +1,3 @@
-# CSI-Week-6-Assignment
 # SUMMARY
 
 ### Breast Cancer Dataset is used in this.
